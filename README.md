@@ -1,1 +1,1 @@
-# Crop_Prediction
+# Crop_recommendation.xls is database taken rom kaggle and Crop_Prediction file is a tarined model. While Crop_prediction notebook contain the code where I used three models : LogicalRegression, DecisionTree and RandomForest. I have exported model with best accuracy among 3 using joblib library. 
